@@ -6,7 +6,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - [Overview](#Это мое решение челленджа от Frontend Mentor)
   - [The challenge](#Суть  челленджа состояла в том, чтобы сделать подобный компонент, а главное для меня - использовать  в своей работе JS)
-  - [Screenshot](#![screenshot desktop](screenshot-1.png) ![screenshot mobile](screenshot.png))
+  - [Screenshot](#![screenshot desktop](screenshot-1.png) ![screenshot mobile](screenshot.png) ![screenshot](screenshot-2.png) ![screenshot](screenshot-3.png))
 - [My process](#Я впервые использовала JS при создании сайта и горжусь результатом)
   - [Built with](CSS, HTML, JS)
   - [What I learned](#Я научилась тому, как вызывать элементы при работе со скриптом, как менять их CSS-свойства с помощью функций и как полезно бывает обращаться к id элементов html)
